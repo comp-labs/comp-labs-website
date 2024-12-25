@@ -53,7 +53,7 @@
     "postcss": "latest",
     "prism-react-renderer": "^2.1.0",
     "pure-react-carousel": "latest",
-    "react": "^18.3.0",
+    "react": "^19.0.0",
     "react-canny": "latest",
     "react-dom": "^18.3.0",
     "react-router-dom": "^6.13.0",
