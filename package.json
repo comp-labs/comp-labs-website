@@ -56,7 +56,7 @@
     "react": "^18.3.0",
     "react-canny": "latest",
     "react-dom": "^18.3.0",
-    "react-router-dom": "^6.13.0",
+    "react-router-dom": "^7.1.3",
     "reading-time": "latest",
     "swiper": "^11.1.3",
     "tailwindcss": "latest",
